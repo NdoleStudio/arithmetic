@@ -1,4 +1,5 @@
-package arithmethic
+// Package arithmetic provides basic arithmetic functions without the need for type casting when working with go.
+package arithmetic
 
 // DivideIntsReturnFloat divides 2 integers and returns a float64 as output
 func DivideIntsReturnFloat(numerator int, denominator int) float64 {

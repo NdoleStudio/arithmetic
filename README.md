@@ -9,6 +9,19 @@ arithmetic
 
 This package provides basic arithmetic functions without the need for type casting when working with go.
 
+Install
+=======
+
+```shell
+go get https://github.com/NdoleStudio/arithmetic
+```
+
+Or
+
+```go
+import "github.com/NdoleStudio/arithmetic"
+```
+
 Benchmarks
 ==========
 

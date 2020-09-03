@@ -1,4 +1,4 @@
-package arithmethic
+package arithmetic
 
 import (
 	"math"
