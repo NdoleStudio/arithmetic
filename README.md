@@ -1,5 +1,11 @@
 arithmetic
 ==========
+[![Build Status](https://travis-ci.com/NdoleStudio/arithmetic.svg?branch=2.0-dev)](https://travis-ci.com/NdoleStudio/arithmetic)
+[![codecov](https://codecov.io/gh/NdoleStudio/arithmetic/branch/master/graph/badge.svg)](https://codecov.io/gh/NdoleStudio/arithmetic)
+[![Go Report Card](https://goreportcard.com/badge/github.com/NdoleStudio/arithmetic)](https://goreportcard.com/report/github.com/NdoleStudio/arithmetic)
+[![GitHub contributors](https://img.shields.io/github/contributors/NdoleStudio/arithmetic)](https://github.com/NdoleStudio/arithmetic/graphs/contributors)
+[![GitHub license](https://img.shields.io/github/license/NdoleStudio/arithmetic?color=brightgreen)](https://github.com/NdoleStudio/arithmetic/blob/master/LICENSE)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/NdoleStudio/arithmetic)](https://pkg.go.dev/github.com/NdoleStudio/arithmetic)
 
 This package provides basic arithmetic functions without the need for type casting when working with go.
 
